@@ -3,10 +3,10 @@ import matplotlib.pyplot as plt
 import datetime
 import numpy as np
 
-reddit = praw.Reddit(client_id='bbN46LYS0zEFkQ',
-                     client_secret='65qvUjcoiPr0KoCEqpPea0cXQlU',
+reddit = praw.Reddit(client_id='**********',
+                     client_secret='**********',
                      password='**********',
-                     user_agent='scanningbot',
+                     user_agent='**********',
                      username='**********')
 
 python = 0
